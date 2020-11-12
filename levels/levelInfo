@@ -1,0 +1,3 @@
+This directory contains the main development level (ie. largerScaleTesting.umap) as well as the build data for said level.
+
+This level contains the all important level blueprint that conducts a majority of the run-time functionality of the project. As blueprint is difficult to upload, there is a directory including images of said blueprints in the directory.
