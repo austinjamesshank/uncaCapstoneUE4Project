@@ -9,8 +9,7 @@ This GitHub repo contains:
 - Python PostgreQL control scripts
 - ...to be continued
 
-A working copy of the entire project can also be downloaded via Google Drive here:
-<enter URL here>
+A working copy of the entire project can also be downloaded via Google Drive here: https://drive.google.com/drive/folders/1DL5oM82WNrvMqEUMDbsx_G_rLCO-lJLF?usp=sharing . Please note that only members of UNCA are able to access this file. Access will be moved to another site within the next 6 months upon my departure from UNCA.
 
 Special thanks to:
 - Dr. Kenneth Bogert
