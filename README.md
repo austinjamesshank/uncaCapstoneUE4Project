@@ -13,8 +13,8 @@ A working copy of the entire project can also be downloaded via Google Drive her
 <enter URL here>
 
 Special thanks to:
-Dr. Kenneth Bogert
-Dr. David Wake
-Dr. Britt Lundgren
-Justin Sharpe
-...to be continued
+- Dr. Kenneth Bogert
+- Dr. David Wake
+- Dr. Britt Lundgren
+- Justin Sharpe
+- ...to be continued
