@@ -6,6 +6,9 @@ Current commit date: 12 November 2020
 
 Initial commit date: 6 November 2020
 
+Author(s):
+- Austin James Shank
+
 --- --- --- --- --- --- --- ---
 
 Developed by Austin James Shank at the University of North Carolina at Asheville for the purpose of fulfilling the Computer Science capstone requirement. The project was developed over the course of 1 year (Fall 2019 - Fall 2020) primarily using Unreal Engine 4, with support from C++, Python, SQL, and Blueprint.
