@@ -12,7 +12,7 @@ Developed by Austin James Shank at the University of North Carolina at Asheville
 
 --- --- --- --- --- --- --- ---
 
-This project takes the simulation dataset of the EAGLE project (information here: ) and visualizes said data in virtual reality.
+This project takes the simulation dataset of the EAGLE project (information here: http://icc.dur.ac.uk/Eagle/) and visualizes said data in virtual reality.
   
 --- --- --- --- --- --- --- ---
 
