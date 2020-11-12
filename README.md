@@ -1,4 +1,4 @@
-# uncaCapstoneUE4Project
+# ashank's UNCA Capstone UE4 Virtual Reality Project
 
 Current version: 0.1.1
 
