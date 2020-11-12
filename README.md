@@ -26,7 +26,7 @@ This GitHub repo contains:
 
 --- --- --- --- --- --- --- ---
 
-A working copy of the entire project can also be downloaded via Google Drive here: https://drive.google.com/drive/folders/1DL5oM82WNrvMqEUMDbsx_G_rLCO-lJLF?usp=sharing . Please note that only members of UNCA are able to access this file. Access will be moved to another site within the next 6 months upon my departure from UNCA.
+A working copy of the entire project can also be downloaded via Google Drive here: https://drive.google.com/file/d/1slnXMnaglRuqqJiOxMwAidbzSSoLNfgs/view?usp=sharing . Please note that only members of UNCA are able to access this file. Access will be moved to another site within the next 6 months upon my departure from UNCA.
 
 --- --- --- --- --- --- --- ---
 
